@@ -20,8 +20,7 @@ Pytorch
 -<img width="258" alt="Screenshot 2024-02-15 181320" src="https://github.com/muidchaudhary/Sentiment-classification-with-transformers/assets/149241132/ef5d50dd-279e-4dc2-a7db-f4117e25ed06">
 
 
-
+## References:
 - https://huggingface.co/docs/transformers/model_doc/bert
 - https://huggingface.co/docs/transformers/index
 - https://huggingface.co/docs/transformers/custom_datasets
-
