@@ -1,7 +1,7 @@
 # Sentiment-classification-with-transformers
 
 ## Objective:
-Fine tuning BERT to classify sentiment of given text into POSITIVE or NEGATIVE.
+Fine tuning BERT to classify sentiment of given text
 
 ## Dataset used:
 Link to the [dataset](https://www.kaggle.com/amitkumardas/sentiment-train).
